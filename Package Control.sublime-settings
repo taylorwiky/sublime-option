@@ -1,0 +1,27 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"Autoprefixer",
+		"CodeFormatter",
+		"DocBlockr",
+		"EditorConfig",
+		"Emmet",
+		"HTML-CSS-JS Prettify",
+		"IMESupport",
+		"Jade",
+		"JavaScript Completions",
+		"jQuery",
+		"JsFormat",
+		"LESS",
+		"LiveReload",
+		"Package Control",
+		"php-snippets",
+		"SideBarEnhancements",
+		"Tag"
+	]
+}

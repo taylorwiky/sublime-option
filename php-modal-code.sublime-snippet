@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+\$Model = M();${1}
+\$sqlstr = sprintf("${2}");
+\$tbl = \$Model->query(\$sqlstr);
+return \$tbl;
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>phpmodel</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.php</scope>
+</snippet>
+
